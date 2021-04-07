@@ -4,7 +4,6 @@ import VideoContent from "./VideoContent.js";
 
 
 function App() {
-  console.log("Here's your data:", video);
   
 
   return (
